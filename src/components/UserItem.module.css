@@ -1,0 +1,15 @@
+.ItemBox {
+  display: flex;
+  align-content: start;
+  justify-content: center;
+  background-color: burlywood;
+  width: 51rem;
+}
+
+.Item {
+  font-size: 16px;
+  text-align: center;
+  width: 10rem;
+  margin: 5px auto;
+}
+

@@ -1,0 +1,17 @@
+.InputBox {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: rosybrown;
+  width: 70vw;
+  height: 20rem;
+  margin: 20px auto;
+}
+
+.Label {
+  display: inline-block;
+  width: 100px;
+  margin: 10px 20px;
+  text-align: right;
+}
+

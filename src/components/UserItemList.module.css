@@ -1,0 +1,25 @@
+.Filter {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 70vw;
+  margin: 20px auto;
+}
+
+.Filter__selection {
+  margin: 10px;
+  width: 8rem;
+}
+
+.ListBox {
+  width: 70vw;
+  height: 40vh;
+  margin: 5px auto;
+  padding: 5px 5px;
+  display: flex;
+  align-content: center;
+  justify-content: start;
+  font-size: 18px;
+  border: 1px solid black;
+}
+
